@@ -10,30 +10,55 @@
 - Future For Excellence'22 Scholar
 - Guvi SheCodes Hackathon'25 Finalist
 - Passionate about building impactful AI solutions and full-stack applications that solve real-world problems  
-- 📧 Reach me at: **tejasrichennuri2504@gmail.com**   
+- 📧 Reach me at: **tejasrichennuri2504@gmail.com**
+    
 ---
 
 <h3 align="left">Competitive Programming Profiles</h3>
 
 <p align="left">
-    <a href="https://leetcode.com/u/svd8nisswa/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/72/LeetCode_logo_2021.svg" width="100" alt="LeetCode" style="margin: 0 10px;"></a>
-    <a href="https://www.geeksforgeeks.org/author/tejasrichennuri/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/36/GeeksforGeeks_logo.svg" width="100" alt="GeeksforGeeks" style="margin: 0 10px;"></a>
-    <a href="https://www.hackerrank.com/profile/tejasrichennuri1"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/HackerRank_logo.svg" width="100" alt="HackerRank" style="margin: 0 10px;"></a>
+  <a href="https://leetcode.com/u/svd8nisswa/"style="margin: 0 50px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/author/tejasrichennuri/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="50"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/tejasrichennuri1">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="50"/>
+  </a>
 </p>
 
 ---
 
-<h3 align="left">Connect with Me</h3>
+### 🌐 Connect with Me
 
 <p align="left">
-    <a href="https://github.com/tejasri-chennuri"><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Logo_GitHub.png" width="50" alt="GitHub" style="margin: 0 15px;"></a>
-    <a href="https://www.linkedin.com/in/teja-sri-chennuri-a61819277/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png" width="50" alt="LinkedIn" style="margin: 0 15px;"></a>
-    <a href="https://leetcode.com/u/svd8nisswa/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/72/LeetCode_logo_2021.svg" width="50" alt="LeetCode" style="margin: 0 15px;"></a>
-    <a href="https://www.kaggle.com/tejasrichennuri"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Kaggle_logo.png" width="50" alt="Kaggle" style="margin: 0 15px;"></a>
-    <a href="https://www.youtube.com/@chennuritejasri2055"><img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="50" alt="YouTube" style="margin: 0 15px;"></a>
-    <a href="https://www.hackerrank.com/profile/tejasrichennuri1"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/HackerRank_logo.svg" width="50" alt="HackerRank" style="margin: 0 15px;"></a>
-</p>
+  <a href="https://github.com/tejasri-chennuri" style="margin: 0 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40"/>
+  </a>
 
+  
+  <a href="https://www.linkedin.com/in/teja-sri-chennuri-a61819277/" style="margin: 0 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40"/>
+  </a>
+  <a href="https://leetcode.com/u/svd8nisswa/" style="margin: 0 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40"/>
+  </a>
+  <a href="mailto:tejasrichennuri2504@gmail.com" style="margin: 0 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40"/>
+  </a>
+  <a href="https://www.youtube.com/@chennuritejasri2055" style="margin: 0 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="40"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/tejasrichennuri1" style="margin: 0 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40"/>
+  </a>
+  <a href="https://www.kaggle.com/tejasrichennuri" style="margin: 0 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="40"/>
+  </a>
+  
+</p>
+    
 ---
 
 ### **Technical Skills**
@@ -125,11 +150,3 @@ Tech Stack: Flask, TensorFlow, Python, OpenCV
 
 ---
 
-### 🌐 Connect with Me
-
-- [GitHub](https://github.com/tejasri-chennuri)  
-- [LinkedIn](https://www.linkedin.com/in/teja-sri-chennuri-a61819277/)  
-- [Kaggle](https://www.kaggle.com/tejasrichennuri)  
-- [YouTube](https://www.youtube.com/@chennuritejasri2055)  
-- [HackerRank](https://www.hackerrank.com/profile/tejasrichennuri1)  
-- [LeetCode](https://leetcode.com/u/svd8nisswa/)
