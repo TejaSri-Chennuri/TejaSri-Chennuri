@@ -63,14 +63,16 @@
 
 ### **Technical Skills**
 #### **Programming Languages**
-| ![Python](https://skillicons.dev/icons?i=python) | ![C](https://skillicons.dev/icons?i=c) | ![C++](https://skillicons.dev/icons?i=cpp) | ![Java](https://skillicons.dev/icons?i=java) | ![JavaScript](https://skillicons.dev/icons?i=js) |
+| ![Python](https://skillicons.dev/icons?i=python) | ![C](https://skillicons.dev/icons?i=c) | ![C++](https://skillicons.dev/icons?i=cpp) | ![Java](https://skillicons.dev/icons?i=java) | ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) |
 | --- | --- | --- | --- | --- |
-| Python | C | C++ | Java | JavaScript |
+| Python | C | C++ | Java | SQL |
+
 
 #### **Frontend Development**
-| ![React](https://skillicons.dev/icons?i=react) | ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) | ![HTML](https://skillicons.dev/icons?i=html) | ![CSS](https://skillicons.dev/icons?i=css) |
-| --- | --- | --- | --- |
-| React | Tailwind CSS | HTML | CSS |
+| ![React](https://skillicons.dev/icons?i=react) | ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) | ![HTML](https://skillicons.dev/icons?i=html) | ![CSS](https://skillicons.dev/icons?i=css) | ![JavaScript](https://skillicons.dev/icons?i=js) |
+| --- | --- | --- | --- | --- |
+| React | Tailwind CSS | HTML | CSS | JavaScript |
+
 
 #### **Backend Development**
 | ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![Flask](https://skillicons.dev/icons?i=flask) |
