@@ -7,7 +7,7 @@
 
 - B.Tech in Electronics and Communication Engineering at Jawaharlal Nehru Technological University Hyderabad 
 - Google Girl Hackathon'25 Semi Finalist
-- Future For Excellence'22 Scholar
+- Foundation For Excellence'22 Scholar
 - Guvi SheCodes Hackathon'25 Finalist
 - Passionate about building impactful AI solutions and full-stack applications that solve real-world problems  
 - 📧 Reach me at: **tejasrichennuri2504@gmail.com**
